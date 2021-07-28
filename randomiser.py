@@ -4,7 +4,7 @@ import json
 
 #variables for OAuth:
 scope = "playlist-modify-public"
-username = 	"" #your username here
+username = "" #your username here
 redirect_uri = "http://127.0.0.1:8080/" #local host
 
 client_id = "" #get yours from spotify dashboard
