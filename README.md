@@ -1,5 +1,5 @@
 # spotify-bot
-a spotify bot that creates playlists.
+a spotify bot that creates artist-specific playlists.
 
 
 I used the Spotipy library => https://spotipy.readthedocs.io/en/2.18.0/# to create this basic Spotify bot.
